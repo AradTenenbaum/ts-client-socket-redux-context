@@ -1,0 +1,6 @@
+react
+redux + context
+appbar + drawer
+snackbar
+socket
+router
